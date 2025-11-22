@@ -1,4 +1,4 @@
 #Informacje o czlonku zespolu
-Imie:
-Nazwisko:
-Ulubiona technologia:
+Imie: Slawek
+Nazwisko:Jod
+Ulubiona technologia: DevOps
